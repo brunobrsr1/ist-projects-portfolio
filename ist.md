@@ -10,5 +10,5 @@ Each project is stored in its own GitHub repository and linked below by year, se
 
 ### Semester 1
 
-- **Foudation of Programming (Fundamentos da Programação - FP)**
-- Project 1: [M,n,k Game *(Jogo M,n,k)*](https://github.com/brunobrsr1/mnk-game) [ Python ]
+- **Foundations of Programming (Fundamentos da Programação - FP)**
+  - Project 1: [M,n,k Game *(Jogo M,n,k)*](https://github.com/brunobrsr1/mnk-game) [ Python ]
