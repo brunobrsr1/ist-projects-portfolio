@@ -12,3 +12,4 @@ Each project is stored in its own GitHub repository and linked below by year, se
 
 - **Foundations of Programming (Fundamentos da Programação - FP)**
   - Project 1: [M,n,k Game *(Jogo M,n,k)*](https://github.com/brunobrsr1/mnk-game) [ Python ]
+  - Project 2: [Orbito-n *(Orbito-n)*](https://github.com/brunobrsr1/orbito-n) [ Python ]
