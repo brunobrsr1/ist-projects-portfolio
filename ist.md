@@ -16,3 +16,6 @@ Each project is stored in its own GitHub repository and linked below by year, se
 
 - **Logic for Programming (Lógica para Programação - LP)**
   - Project: [Star Battle](https://github.com/brunobrsr1/star-battle) [ Prolog ]
+
+- **Introduction to Algorithms and Data Structures (Introdução aos Algoritmos e Estruturas de Dados - IAED)**
+  - Project [Vaccine Management System](https://github.com/brunobrsr1/vaccine-management-system) [ C ]
