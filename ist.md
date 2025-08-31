@@ -27,4 +27,4 @@ Each project is stored in its own GitHub repository and linked below by year, se
 ### Semester 1
 
 - **Object-Oriented Programming (Programação com Objetos - PO)**
-  - Project 1:
+  - Project:
