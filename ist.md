@@ -27,4 +27,4 @@ Each project is stored in its own GitHub repository and linked below by year, se
 ### Semester 1
 
 - **Object-Oriented Programming (Programação com Objetos - PO)**
-  - Project: [Library Manager] (https://github.com/brunobrsr1/library-manager) [ Java ]
+  - Project: [Library Manager](https://github.com/brunobrsr1/library-manager) [ Java ]
