@@ -28,3 +28,6 @@ Each project is stored in its own GitHub repository and linked below by year, se
 
 - **Object-Oriented Programming (Programação com Objetos - PO)**
   - Project: [Library Manager](https://github.com/brunobrsr1/library-manager) [ Java ]
+
+- **Analysis and Synthesis of Algorithms (Análise e Síntese de Algoritmos - ASA)**
+  - Project 1: [Dynamic Programming Project](https://github.com/brunobrsr1/asa-p1) [ C++ ]
