@@ -33,3 +33,7 @@ Each project is stored in its own GitHub repository and linked below by year, se
   - Project 1: [Dynamic Programming Project](https://github.com/brunobrsr1/asa-p1) [ C++ ]
   - Project 2: [Path Counting in Directed Acyclic Graphs](https://github.com/brunobrsr1/asa-p2) [ C++ ]
   - Project 3: [Minimum Win Optimization via Binary ILP](https://github.com/brunobrsr1/asa-p3) [ C++ ]
+
+- **Operating Systems (Sistemas Operativos - SO)**
+  - Project 1: [Pacman Game](https://github.com/brunobrsr1/PacmanIST) [ C ]
+  - Project 2: [Server Pacman Game](https://github.com/brunobrsr1/PacmanIST2) [ C ]
