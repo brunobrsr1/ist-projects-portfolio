@@ -21,6 +21,11 @@ Each project is stored in its own GitHub repository and linked below by year, se
 
 - **Introduction to Algorithms and Data Structures (Introdução aos Algoritmos e Estruturas de Dados - IAED)**
   - Project [Vaccine Management System](https://github.com/brunobrsr1/vaccine-management-system) [ C ]
+  
+- **Introduction to Computer Architecture (Introdução à Arquitetura de Computadores - IAC)**
+  - Project 1: [RISC-V Array Routines](https://github.com/brunobrsr1/iac-riscv-arrays) [ RISC-V Assembly ]
+  - Project 2: [RISC-V Self-Attention](https://github.com/brunobrsr1/iac-riscv-transformer) [ RISC-V Assembly ]
+  - Project 3: [16-bit DOT Processor](https://github.com/brunobrsr1/iac-dot-processor) [ Logisim ]
 
 ## Year 2
 
