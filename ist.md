@@ -42,3 +42,9 @@ Each project is stored in its own GitHub repository and linked below by year, se
 - **Operating Systems (Sistemas Operativos - SO)**
   - Project 1: [Pacman Game](https://github.com/brunobrsr1/PacmanIST) [ C ]
   - Project 2: [Server Pacman Game](https://github.com/brunobrsr1/PacmanIST2) [ C ]
+
+### Semester 2
+
+- **Human-Computer Interaction (Introdução à Interação Pessoa-Máquina - IPM)**
+  - Project 1: [Recipe Social Network (Prototype)](https://github.com/brunobrsr1/ipm-recipe-social-network) [ Figma ]
+  - Project 2: [Dense UI Selection](https://github.com/brunobrsr1/ipm-dense-ui-selection) [ JavaScript ]
